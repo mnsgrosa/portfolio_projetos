@@ -1,0 +1,48 @@
+## Boas vindas
+Oi, seja muito bem-vindo(a) ao meu portfolio de proejetos de ciencia de dados. <br>
+Nessa pagina, eu demonstro minhas habilidades de resolver problemas de negocio utilizando conceitos e ferramentas da ciencia de dados, atraves de projetos com dados publicos. <br>
+Sinta-se a vontade para entrar em contato atraves dos links no final da pagina <br>
+
+## Sobre mim
+Meu nome e Matheus Sampaio, sou estudante de ciencia da computacao na UFPE Atualmente sou cientista de dados trainee desde julho de 2023 atuo com diversos clientes da valorian para organizar os dados e extrair insights deles para gerar valor ao cliente com dashboards usando dash plotly e outras tecnologias como duckdb e pandas para extrair os dados e manipular-los. <br>
+Procuro oportunidades de trabalho para aprimorar minhas habilidades em data science e mlops para que assim as empresas possam, extrair do meu trabalho, insights valiosos e que possam crescer ainda mais
+
+## Habilidades
+
+### Linguagem de Programacao
+
+ - Python
+ - C/C++
+ 
+### Estatistica e Machine Learning
+ - Estatistica descritiva
+ - Algoritmos Regressao, classificacao, clusterizacao 
+ - Tecnicas de balanceamento dos dados, selececao de atributos e reducao de dimensionalidade
+ - Metricas de performance dos algoritmos (RMSE, MAE, MAPE,  confusion matrix, precisao, recall, curva ROC, AUC, silhouette score, DB-index)
+ - Pacotes de machine learning: Sklearn, scipy, pytorch, tensorflow e scipy
+
+### Visualizacao de dados
+
+ - Seaborn, Matplotlib, plotly
+ - Dash from plotly
+
+### Engenharia de Software
+
+ - Git, github, virtual environment python e docker
+ - Python API's
+
+## Experiencias
+
+### Trabalho
+ - Pesquisador junior UFRPE 2021- 2022
+ - Pesquisador junior UFPE 2022 - Junho 2023 
+ - Trainee cientista de dados valorian julho 2023 - atual
+
+## Contato
+Sinta-se a vontade para entrar em contato comigo 
+
+ - [linkedin](www.linkedin.com/in/mnsgr)
+ - Email: matheusnsampaio@gmail.com
+ - 
+
+
